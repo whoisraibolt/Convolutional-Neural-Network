@@ -1,5 +1,10 @@
 # Convolutional Neural Network for Facial Expression Recognition of Basic Emotions
 
+![GitHub language count](https://img.shields.io/github/languages/count/whoisraibolt/Convolutional-Neural-Network.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/whoisraibolt/Convolutional-Neural-Network.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/whoisraibolt/Convolutional-Neural-Network.svg)
+![GitHub](https://img.shields.io/github/license/whoisraibolt/Convolutional-Neural-Network.svg)
+
 ## People
 
 Alexandra Raibolt   ( [Lattes](http://lattes.cnpq.br/4144500977095845 "Lattes") | [E-mail](mailto:alexandra.raibolt@gmail.com "E-mail") )
