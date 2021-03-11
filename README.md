@@ -9,10 +9,6 @@
 
 Alexandra Raibolt   ( [Lattes](http://lattes.cnpq.br/4144500977095845 "Lattes") | [E-mail](mailto:alexandra.raibolt@gmail.com "E-mail") )
 
-Alberto Angonese    ( [Lattes](http://lattes.cnpq.br/8039229243803003 "Lattes") | [E-mail](mailto:aangonese@faeterj-petropolis.edu.br "E-mail") )
-
-Paulo Rosa          ( [Lattes](http://lattes.cnpq.br/1512717941866097 "Lattes") | [E-mail](mailto:rpaulo@ime.eb.br "E-mail") )
-
 ## Overview
 
 This Jupyter Notebook shows step by step, the process of building a Convolutional Neural Network for Emotional Expression Recognition in Python using the TensorFlow framework.
